@@ -31,7 +31,7 @@
 ### 📫 How to reach me:
 - Email: [nguyenthanhvinh1613@gmail.com]  
 - LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/imfabian)  
-- GitHub: [github.com/ngthvinh08](https://github.com/ngthvinh08)
+- GitHub: [github.com/ngthvinh08](https://www.linkedin.com/in/nguyen-thanh-vinh-0453bb274/)
 
 ---
 
