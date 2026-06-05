@@ -1,38 +1,30 @@
-### 👋 Hi, I’m Vinh
+# Hi, I'm Vinh
 
-🎓 I’m an Electronics Engineering student with strong interest in **embedded systems**, **IoT**, and **PCB design**.  
-💡 I enjoy building smart devices that bridge the gap between hardware and software.
+Embedded Systems Engineer focused on developing reliable, efficient, and intelligent edge devices.
 
----
+My work centers around embedded software development, real-time systems, wireless connectivity, and AI deployment on resource-constrained hardware. I am particularly interested in building products that combine robust firmware, optimized hardware design, and intelligent data processing at the edge.
 
-### 👀 I’m interested in:
-- Embedded programming (C, STM32, ESP32, Arduino)
-- IoT systems and sensor integration
-- PCB design (Altium Designer, KiCad)
-- Machine learning applications on edge devices (TinyML)
+## Technical Focus
 
----
+* Embedded Firmware Development (C/C++)
+* Real-Time Operating Systems (FreeRTOS, Zephyr RTOS)
+* ARM Cortex-M Microcontrollers (STM32, ESP32, Silicon Labs)
+* Device Drivers and Hardware Abstraction Layers
+* Wireless Connectivity (BLE, Wi-Fi, MQTT)
+* Edge AI and TinyML
+* Embedded Linux and System Integration
+* PCB Design and Hardware Prototyping
 
-### 🌱 I’m currently learning:
-- Real-time systems with **FreeRTOS**
-- Multi-layer PCB layout and signal integrity
-- Communication protocols (SPI, I2C, UART, MQTT)
-- Low-power design for IoT
+## Areas of Interest
 
----
+* Intelligent IoT Systems
+* Edge Computing
+* Low-Power Embedded Design
+* Sensor Fusion and Signal Processing
+* AI-Driven Embedded Applications
 
-### 💞️ I’m looking to collaborate on:
-- Open-source IoT or embedded firmware projects
-- PCB design and prototyping
-- Projects that combine AI + embedded systems (e.g., edge ML)
+## Connect With Me
 
----
-
-### 📫 How to reach me:
-- Email: [nguyenthanhvinh1613@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/imfabian] 
-- GitHub: [github.com/ngthvinh08](https://www.linkedin.com/in/nguyen-thanh-vinh-0453bb274/)
-
----
-
-> "Turning ideas into working prototypes — one wire and one bug at a time."
+* Email: [nguyenthanhvinh1613@gmail.com](mailto:nguyenthanhvinh1613@gmail.com)
+* LinkedIn: [www.linkedin.com/in/imfabian](http://www.linkedin.com/in/imfabian)
+* GitHub: github.com/ngthvinh08
