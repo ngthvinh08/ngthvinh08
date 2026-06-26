@@ -8,12 +8,11 @@ My work centers around embedded software development, real-time systems, wireles
 
 * Embedded Firmware Development (C/C++)
 * Real-Time Operating Systems (FreeRTOS, Zephyr RTOS)
-* ARM Cortex-M Microcontrollers (STM32, ESP32, Silicon Labs)
+* ARM Cortex-M Microcontrollers (STM32, ESP32, SiWG917)
 * Device Drivers and Hardware Abstraction Layers
 * Wireless Connectivity (BLE, Wi-Fi, MQTT)
 * Edge AI and TinyML
 * Embedded Linux and System Integration
-* PCB Design and Hardware Prototyping
 
 ## Areas of Interest
 
